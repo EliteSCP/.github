@@ -9,6 +9,4 @@ The first option is used in major by Bay.
 
 Our top rated plugins, by players, are [SCP-6666] (aka SCP-DON_FRANCO), [SCP-1162], [XPPro] and [SCPUtils](https://github.com/Terminator-97/SCPUtils); only plugin among these to be public.
 
-In case we have forgotten something, do not hesitate to contact us (by [mail](mailto:bay@elitecommunity.it) or by writing to `Bay#0490`).
-
 ### - With love, Bay (Event Director, HR Director, Technical Support Supervisor, CO-FOUNDER and CEO)
